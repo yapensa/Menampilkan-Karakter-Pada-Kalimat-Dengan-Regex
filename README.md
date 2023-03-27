@@ -14,6 +14,11 @@ Google Colab
 Bayangkan, dari ribuan row tweet, karakter khusus yang ditemukan cuma segini (tanpa duplikasi):
 ['>', '¸', 'ª', '¨', '/', '_', 'Â', '±', '\\', '=', '³', 'á', '*', ':', '|', '¥', 'ï', '«', '²', '`', 'Ä', '»', '}', '.', '°', '%', 'ë', "'", 'ð', '¢', '¶', 'µ', '·', '^', '-', '(', '¡', '®', '£', ';', '½', '¬', '$', '#', 'Ø', ')', 'Ù', '?', '~', 'â', ']', 'º', 'ê', '!', '¹', '&', '©', '@', '¦', '{', '\xad', '¿', '[', '¯', '"', ',', '¼', 'Ã', '§', '+', '´', 'ã', '¤']
 
+# Kapan ini digunakan?
+Logika dari pembuatan kode ini, ketika kita sudah melakukan cleansing dengan regex, alangkah baiknya dipastikan dengan membaca hasil apakah sudah bersih atau belum, jika belum, maka dibuatkan cleansing otomatis dari hasil yang ada dengan metode replace dengan space kosong berdasarkan kode yang ditemukan...
+
+Bingung ya? sama wkwkwkw
+
 # Alasan
 Kenapa saya membuat ini sedangkan ini hanya proyek sederhana?
 Jawaban:
