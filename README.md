@@ -1,9 +1,9 @@
 # Menampilkan Karakter/ Simbol Pada Kalimat Dengan Regex
 Menampilkan karakter pada Kalimat pada file CSV dengan ribuan row dengan Regex...
 
-# File
+# File - Indonesian Abusive and Hate Speech Twitter Text
 Pada git ini hanya berisi 2 file, yaitu: 
-1. data.csv yang bersumber dari (Indonesian Abusive and Hate Speech Twitter Text) 
+1. data.csv yang bersumber dari
    https://www.kaggle.com/datasets/ilhamfp31/indonesian-abusive-and-hate-speech-twitter-text
 2. Membaca_Simbol.ipynb (berisi code/script)
 
