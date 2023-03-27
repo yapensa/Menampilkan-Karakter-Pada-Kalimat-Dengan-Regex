@@ -11,7 +11,7 @@ Pada git ini hanya berisi 2 file, yaitu:
 Google Colab
 
 # Hasil
-Bayangkan dari ribuan row karakter khusus yang ditemukan cuma ini (tanpa duplikasi):
+Bayangkan, dari ribuan row tweet, karakter khusus yang ditemukan cuma segini (tanpa duplikasi):
 ['>', '¸', 'ª', '¨', '/', '_', 'Â', '±', '\\', '=', '³', 'á', '*', ':', '|', '¥', 'ï', '«', '²', '`', 'Ä', '»', '}', '.', '°', '%', 'ë', "'", 'ð', '¢', '¶', 'µ', '·', '^', '-', '(', '¡', '®', '£', ';', '½', '¬', '$', '#', 'Ø', ')', 'Ù', '?', '~', 'â', ']', 'º', 'ê', '!', '¹', '&', '©', '@', '¦', '{', '\xad', '¿', '[', '¯', '"', ',', '¼', 'Ã', '§', '+', '´', 'ã', '¤']
 
 # Alasan
