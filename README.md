@@ -22,6 +22,8 @@ Bingung ya? sama wkwkwkw
 Maksudnya gini loh... huruf = huruf.replace(variabel_kode, "")
 Bingung? sama wkwkwk
 
+intinya sih gini, dengan kamu membaca simbol yang ada dalam kalimat, kamu tahu harus pake script regex seperti apa, jd gak coba-coba, soalnya banyal newbie seperti saya yang masukin semua kode regex yang penting bisa kehapus kodenya xixixixix
+
 # Alasan
 Kenapa saya membuat ini sedangkan ini hanya proyek sederhana?
 Jawaban:
