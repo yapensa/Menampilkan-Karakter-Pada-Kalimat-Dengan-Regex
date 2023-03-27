@@ -12,3 +12,6 @@ Google Colab
 # Alasan
 Kenapa saya membuat ini sedangkan ini hanya proyek sederhana?
 Hanya latihan saja membuat GIT kwkwkwkw
+
+# Lisensi
+Bebas copy saja sesuka hati hehe
