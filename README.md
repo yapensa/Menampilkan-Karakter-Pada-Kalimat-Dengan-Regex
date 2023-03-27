@@ -10,6 +10,10 @@ Pada git ini hanya berisi 2 file, yaitu:
 # Sofware
 Google Colab
 
+# Hasil
+Bayangkan dari ribuan row karakter khusus yang ditemukan cuma ini (tanpa duplikasi):
+['>', '¸', 'ª', '¨', '/', '_', 'Â', '±', '\\', '=', '³', 'á', '*', ':', '|', '¥', 'ï', '«', '²', '`', 'Ä', '»', '}', '.', '°', '%', 'ë', "'", 'ð', '¢', '¶', 'µ', '·', '^', '-', '(', '¡', '®', '£', ';', '½', '¬', '$', '#', 'Ø', ')', 'Ù', '?', '~', 'â', ']', 'º', 'ê', '!', '¹', '&', '©', '@', '¦', '{', '\xad', '¿', '[', '¯', '"', ',', '¼', 'Ã', '§', '+', '´', 'ã', '¤']
+
 # Alasan
 Kenapa saya membuat ini sedangkan ini hanya proyek sederhana?
 Jawaban:
