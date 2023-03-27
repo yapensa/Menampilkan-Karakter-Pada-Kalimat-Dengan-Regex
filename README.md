@@ -19,6 +19,9 @@ Logika dari pembuatan kode ini, ketika kita sudah melakukan cleansing dengan reg
 
 Bingung ya? sama wkwkwkw
 
+Maksudnya gini loh... huruf = huruf.replace(variabel_kode, "")
+Bingung? sama wkwkwk
+
 # Alasan
 Kenapa saya membuat ini sedangkan ini hanya proyek sederhana?
 Jawaban:
