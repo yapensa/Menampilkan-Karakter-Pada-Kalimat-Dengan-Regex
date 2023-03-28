@@ -15,14 +15,7 @@ Bayangkan, dari ribuan row tweet, karakter khusus yang ditemukan cuma segini (ta
 ['>', '¸', 'ª', '¨', '/', '_', 'Â', '±', '\\', '=', '³', 'á', '*', ':', '|', '¥', 'ï', '«', '²', '`', 'Ä', '»', '}', '.', '°', '%', 'ë', "'", 'ð', '¢', '¶', 'µ', '·', '^', '-', '(', '¡', '®', '£', ';', '½', '¬', '$', '#', 'Ø', ')', 'Ù', '?', '~', 'â', ']', 'º', 'ê', '!', '¹', '&', '©', '@', '¦', '{', '\xad', '¿', '[', '¯', '"', ',', '¼', 'Ã', '§', '+', '´', 'ã', '¤']
 
 # Kapan ini digunakan?
-Logika dari pembuatan kode ini, ketika kita sudah melakukan cleansing dengan regex, alangkah baiknya dipastikan dengan membaca hasil apakah sudah bersih atau belum, jika belum, maka dibuatkan cleansing otomatis dari hasil yang ada dengan metode replace dengan space kosong berdasarkan kode yang ditemukan...
-
-Bingung ya? sama wkwkwkw
-
-Maksudnya gini loh... huruf = huruf.replace(variabel_kode, "")
-Bingung? sama wkwkwk
-
-intinya sih gini, dengan kamu membaca simbol yang ada dalam kalimat, kamu tahu harus pake script regex seperti apa, jd gak coba-coba, soalnya banyak newbie seperti saya yang masukin semua kode regex yang penting bisa kehapus kodenya xixixixix
+Intinya sih gini, dengan kamu membaca simbol yang ada dalam kalimat, kamu tahu harus pake script regex seperti apa yang cocok, jd gak coba-coba, soalnya banyak newbie seperti saya yang masukin semua kode regex yang penting bisa kehapus kodenya xixixixix
 
 # Alasan
 Kenapa saya membuat ini sedangkan ini hanya proyek sederhana?
